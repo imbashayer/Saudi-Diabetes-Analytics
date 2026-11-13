@@ -1,4 +1,4 @@
-Saudi Diabetes Analytics
+## Saudi Diabetes Analytics
 
 An interactive data analytics and machine learning project exploring diabetes patterns in a synthetic Saudi population dataset.
 
@@ -54,7 +54,8 @@ Important Disclaimer
 
 This project uses synthetic data for educational and portfolio purposes only. It does not contain real patient information and must not be used for medical diagnosis, treatment, or clinical decision-making.
 
-Author
+## Author
 
 Bashayer saleh albdrani 
+
 Statistics Graduate | Data Scientist
